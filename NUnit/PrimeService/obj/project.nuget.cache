@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Svpi+YJiDhJm1LpwE7PyVmKK8TkAbXKuTN5/qO8tbxABTVkoNR8bpc+IQNPEVucv5QIlSvEz7qzFdK9l32tMSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilku\\Desktop\\nunit\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilku\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wilku\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
